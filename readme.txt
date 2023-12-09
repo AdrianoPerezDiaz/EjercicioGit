@@ -1,0 +1,2 @@
+En el primer paso creo la carpeta "Ejercicio1" desde windows. Arranco visual code studio y creo los archivos "index.html" y "readdme.txt", arranco el repositorio
+Creo en github un repositorio y renombro la rama principal del visual code como main para evitar errores. Enlazo los repositorios con "git remote add origin https://github.com/AdrianoPerezDiaz/EjercicioGit.git" y compruebo con un "git remote -v". Realizo un primer "git add ." y "git commit"
